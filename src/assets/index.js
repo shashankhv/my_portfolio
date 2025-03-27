@@ -36,7 +36,7 @@ import fairshare from './fairshare.png'
 import ashok from './ashok.png'
 import amir from './amir.png'
 import stock from './stock.png'
-
+import letters from './letter-s.png'
 export {
   logo,
   backend,
@@ -71,5 +71,6 @@ export {
   fairshare,
   ashok,
   amir,
-  stock
+  stock,
+  letters
 };
